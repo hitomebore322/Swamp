@@ -1,0 +1,12 @@
+D:\ForGit\RandomMaze\RandomMaze\bin\Debug\RandomMaze.exe
+D:\ForGit\RandomMaze\RandomMaze\bin\Debug\RandomMaze.exe.config
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.csproj.AssemblyReference.cache
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.DifficultySelectionForm.resources
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.Form1.resources
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.Menu.resources
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.Properties.Resources.resources
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.csproj.GenerateResource.cache
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.csproj.CoreCompileInputs.cache
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.exe
+D:\ForGit\RandomMaze\RandomMaze\obj\Debug\RandomMaze.pdb
+D:\ForGit\RandomMaze\RandomMaze\bin\Debug\RandomMaze.pdb
